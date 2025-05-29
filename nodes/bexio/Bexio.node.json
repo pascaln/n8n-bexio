@@ -1,0 +1,31 @@
+{
+	"node": "n8n-nodes-bexio.bexio",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Communication"
+	],
+	"subcategories": {
+		"Communication": [
+			"CRM"
+		]
+	},
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.bexio.com/legacy/"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://docs.bexio.com/"
+			}
+		]
+	},
+	"alias": [
+		"bexio",
+		"crm",
+		"contacts",
+		"customer management"
+	]
+}
